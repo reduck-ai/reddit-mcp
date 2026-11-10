@@ -1,0 +1,46 @@
+{
+	"count": 7,
+	"scripts": [
+		{
+			"path": "README.md",
+			"url": "https://reduck.ai/use-cases/reddit-mcp",
+			"lastmod": "2026-10-05"
+		},
+		{
+			"address": "@reduck/reddit.com/get_subreddit_threads",
+			"path": "scripts/reddit.com/get_subreddit_threads.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/get_subreddit_threads",
+			"lastmod": "2026-11-03"
+		},
+		{
+			"address": "@reduck/reddit.com/get_thread",
+			"path": "scripts/reddit.com/get_thread.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/get_thread",
+			"lastmod": "2026-11-03"
+		},
+		{
+			"address": "@reduck/reddit.com/post_comment",
+			"path": "scripts/reddit.com/post_comment.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/post_comment",
+			"lastmod": "2026-10-22"
+		},
+		{
+			"address": "@reduck/reddit.com/reply_comment",
+			"path": "scripts/reddit.com/reply_comment.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/reply_comment",
+			"lastmod": "2026-10-22"
+		},
+		{
+			"address": "@reduck/reddit.com/search_reddit",
+			"path": "scripts/reddit.com/search_reddit.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/search_reddit",
+			"lastmod": "2026-10-29"
+		},
+		{
+			"address": "@reduck/reddit.com/search_subreddit",
+			"path": "scripts/reddit.com/search_subreddit.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/search_subreddit",
+			"lastmod": "2026-10-22"
+		}
+	]
+}

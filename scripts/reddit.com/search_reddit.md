@@ -4,7 +4,7 @@ Automatically search Reddit on reddit.com. Search posts across all of Reddit, wi
 
 - Site: reddit.com
 - Address: `reduck/reddit.com/search_reddit`
-- Updated: 2026-10-29 (v23)
+- Updated: 2026-11-11 (v24)
 - Author: Reduck AI (reduck)
 
 ## Run it

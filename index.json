@@ -10,7 +10,7 @@
 			"address": "@reduck/reddit.com/get_subreddit_threads",
 			"path": "scripts/reddit.com/get_subreddit_threads.md",
 			"url": "https://reduck.ai/explore/scripts/reduck/reddit.com/get_subreddit_threads",
-			"lastmod": "2026-11-11"
+			"lastmod": "2026-11-12"
 		},
 		{
 			"address": "@reduck/reddit.com/get_thread",

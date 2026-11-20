@@ -4,7 +4,7 @@ Automatically search a Reddit subreddit on reddit.com. Search posts within a sin
 
 - Site: reddit.com
 - Address: `reduck/reddit.com/search_subreddit`
-- Updated: 2026-10-22 (v13)
+- Updated: 2026-11-19 (v14)
 - Author: Reduck AI (reduck)
 
 ## Run it
